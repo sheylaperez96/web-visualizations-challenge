@@ -10,5 +10,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Create a bubble chart that displays each sample.
 
 ## Final Results
-
+![alt text](images/Screen%20Shot%202022-10-03%20at%206.51.08%20PM.png)
 
